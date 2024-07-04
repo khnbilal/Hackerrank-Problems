@@ -11,14 +11,14 @@ In this repository, you will find my solutions to various coding challenges and 
 - SQL Solutions: A collection of SQL queries that solve various database-related problems on HackerRank. These solutions showcase different SQL techniques and concepts.
 
 **Goals**
-**- Learning:** Improve my coding skills and deepen my understanding of Python and SQL.
-**- Sharing Knowledge:** Provide clear and concise solutions that can help others learn and solve similar problems.
-**- Community Engagement:** Encourage collaboration and discussion around problem-solving strategies and techniques.
+- Learning: Improve my coding skills and deepen my understanding of Python and SQL.
+- Sharing Knowledge: Provide clear and concise solutions that can help others learn and solve similar problems.
+- Community Engagement: Encourage collaboration and discussion around problem-solving strategies and techniques.
 
 **How to Use This Repository**
-**- Browse the Solutions:** Navigate through the folders to find solutions to specific problems.
-**- Understand the Approach:** Each solution includes comments and explanations to help you understand the approach and logic used.
-**- Practice and Improve:** Use these solutions as a reference to practice and improve your own coding skills.
+- Browse the Solutions: Navigate through the folders to find solutions to specific problems.
+- Understand the Approach: Each solution includes comments and explanations to help you understand the approach and logic used.
+- Practice and Improve: Use these solutions as a reference to practice and improve your own coding skills.
 
 **Contribution**
 I welcome contributions from the community! If you have a better solution or an improvement, feel free to submit a pull request. Let's learn and grow together!
