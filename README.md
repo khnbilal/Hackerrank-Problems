@@ -4,6 +4,7 @@ HackerRank Solutions in Python and SQL
 Welcome to my GitHub repository dedicated to solving HackerRank problems using Python and SQL! 🚀
 
 **About This Repository**
+
 In this repository, you will find my solutions to various coding challenges and problems from HackerRank. Each solution is carefully crafted and explained to help you understand the thought process and logic behind solving these problems.
 
 **Repository Structure**
