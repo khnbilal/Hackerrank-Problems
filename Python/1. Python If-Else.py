@@ -7,12 +7,18 @@ import re
 import sys
 
 
-n = int(input().strip())
-if n%2 != 0:
+def check_weird(n):
+    if n % 2 != 0:
+# If n is odd
         print("Weird")
-elif n%2 == 0 and n>2 and n<=5:
-    print("Not Weird")
-elif n%2 ==0 and n > 6 and n <=20:
-    print("Weird")
-else:
-    print("Not Weird")
+    else:
+# If n is even
+        if 2 <= n <= 5:
+            print("Not Weird")
+        elif 6 <= n <= 20:
+            print("Weird")
+        elif n > 20:
+            print("Not Weird")
+
+num = int(input())
+check_weird(num)
