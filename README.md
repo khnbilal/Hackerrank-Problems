@@ -21,5 +21,5 @@ In this repository, you will find my solutions to various coding challenges and 
 - Practice and Improve: Use these solutions as a reference to practice and improve your own coding skills.
 
 **Contribution**
-I welcome contributions from the community! If you have a better solution or an improvement, feel free to submit a pull request. Let's learn and grow together!
+- I welcome contributions from the community! If you have a better solution or an improvement, feel free to submit a pull request. Let's learn and grow together!
 
